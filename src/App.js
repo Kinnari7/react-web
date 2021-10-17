@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App1">
-      <header className="App-header">
+      <header >
         <img src={logo} className="App-logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload//
